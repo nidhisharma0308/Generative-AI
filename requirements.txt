@@ -7,3 +7,4 @@ faiss-cpu==1.8.0
 Flask==3.0.3
 python-dotenv==1.0.1
 Pillow
+langchain_google_genai
